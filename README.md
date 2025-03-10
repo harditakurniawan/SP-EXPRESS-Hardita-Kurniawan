@@ -10,6 +10,7 @@
 * CRUD products (Laravel)
 * Create, show all, show detail, paid and cancled order (Laravel)
 * Create, show all, show detail, paid and cancled order (Laravel)
+* Cron run every 15 minutes to set order status expired (Laravel)
 * Calculate discount (ExpressJs)
 * Print notification to log/console (ExpressJs)
 
